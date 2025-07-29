@@ -34,7 +34,7 @@ Each class contains several `.jpg` images of the respective insect. The dataset 
 - **Epochs**: 30
 
 ---
-
+```
 ## 🏁 Training and Evaluation Results
 
 ### ✅ **Test Performance**
