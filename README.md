@@ -21,7 +21,7 @@ The dataset consists of insect images organized into 9 classes:
 
 Each class contains several `.jpg` images of the respective insect. The dataset is structured in standard subfolders under `train`, `validation`, and `test`.
 
-**Google Drive Dataset Link**: [📂 Click to Access Dataset](https://your-link-here)
+**Google Drive Dataset Link**: [📂 Click to Access Dataset]([https://your-link-here](https://drive.google.com/drive/folders/1gKSVo5Y2CsmeKtEz6Dgstn-Jn5FpZ5Py?usp=sharing))
 
 ---
 
@@ -44,8 +44,7 @@ Accuracy  : 94.26%
 
 ````
 
-### 📉 **Model Accuracy Curve**
-![Accuracy Graph](path/to/accuracy_graph.png)
+
 
 > The graph shows signs of **overfitting**, as validation accuracy drops after a few epochs. Regularization techniques may help generalize better.
 
@@ -53,7 +52,6 @@ Accuracy  : 94.26%
 
 ## 🔍 Confusion Matrix
 
-![Confusion Matrix](path/to/confusion_matrix.png)
 
 | Class Name      | Precision/Observation |
 |-----------------|-----------------------|
@@ -101,8 +99,6 @@ model.save('/desired/path/insect_model.h5')
 ## 🙋‍♂️ Author
 
 **Parampreet Singh**
-B.Tech CSE, Graphic Era Hill University
-📧 Email: [param.cse@gehu.ac.in](mailto:param.cse@gehu.ac.in)
 
 ---
 
@@ -112,12 +108,4 @@ MIT License
 
 ```
 
----
-
-### ✅ To finalize:
-Replace:
-- `https://your-link-here` with your Google Drive link.
-- `path/to/accuracy_graph.png` and `path/to/confusion_matrix.png` with relative GitHub paths to those images.
-
-Would you like me to generate the GitHub folder structure or README preview with your images embedded?
 ```
