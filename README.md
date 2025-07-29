@@ -1,4 +1,4 @@
-```markdown
+
 # 🐛 Insect Classification Using CNN (TensorFlow / Keras)
 
 This project is a Convolutional Neural Network (CNN) model trained to classify 9 different types of crop pests. The model has been trained on a custom dataset and evaluated for real-world accuracy. It can be integrated into agriculture-based pest control solutions for early pest detection.
