@@ -106,6 +106,4 @@ model.save('/desired/path/insect_model.h5')
 
 MIT License
 
-```
 
-```
